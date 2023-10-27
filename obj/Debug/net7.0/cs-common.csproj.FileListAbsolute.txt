@@ -1,0 +1,15 @@
+/home/korshunov/Education/cs-common/bin/Debug/net7.0/cs-common
+/home/korshunov/Education/cs-common/bin/Debug/net7.0/cs-common.deps.json
+/home/korshunov/Education/cs-common/bin/Debug/net7.0/cs-common.runtimeconfig.json
+/home/korshunov/Education/cs-common/bin/Debug/net7.0/cs-common.dll
+/home/korshunov/Education/cs-common/bin/Debug/net7.0/cs-common.pdb
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.csproj.AssemblyReference.cache
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.GeneratedMSBuildEditorConfig.editorconfig
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.AssemblyInfoInputs.cache
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.AssemblyInfo.cs
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.csproj.CoreCompileInputs.cache
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.dll
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/refint/cs-common.dll
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.pdb
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/cs-common.genruntimeconfig.cache
+/home/korshunov/Education/cs-common/obj/Debug/net7.0/ref/cs-common.dll
